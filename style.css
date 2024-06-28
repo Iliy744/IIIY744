@@ -1,3 +1,6 @@
 p{
-    background: #e7fc8a;
+    p {
+color: red;
+font-size: 3em;
+}
 }
